@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Yevhenii Karpliuk"
+	],
+	"copyright": "Copyright © 2023, Yevhenii Karpliuk",
+	"dependencies": {
+		"vibe-mqtt": "~>0.3.2"
+	},
+	"description": "MQTT vibe-mqtt simple test",
+	"license": "proprietary",
+	"name": "mqtt_dtest"
+}
