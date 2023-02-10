@@ -25,5 +25,9 @@ docs/
 
 mqtt_dtest
 
+# mosquitto
+mosquitto/data/
+mosquitto/log/
+
 # yk dev env specific
 start-yk.sh
